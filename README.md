@@ -51,7 +51,7 @@ Also covered conceptually (see reference notes): **WebSockets** for true bidirec
 
 ---
 
-## ⚡ Module 2: Performance & Optimization
+## Module 2: Performance & Optimization
 
 Eleven modules of techniques to make a React + Webpack app measurably faster, mapped to what actually moves **Core Web Vitals**.
 
