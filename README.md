@@ -2,8 +2,6 @@
 
 A hands-on, code-first exploration of the concepts every frontend engineer needs to design **scalable, performant, and reliable** web applications — from how browsers render a page to how clients and servers talk to each other, and how to make all of it fast.
 
-This repo is my personal deep-dive and reference implementation, built while working through **Frontend System Design Yatra (Season 1 & 2)**, with working code for every concept rather than just notes.
-
 ---
 
 ## What's Inside
